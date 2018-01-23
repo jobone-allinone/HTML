@@ -98,14 +98,12 @@ HTMLはタグというものを使って作っていきます。
 の間に記述していきます.
 
 ```html
-<body>
     <h1>大見出し</h1>
     <p>大見出しはタイトルに使うことが多いです。</p>
     <h2>中見出し</h2>
     <p>多くの見出しはこの見出し</p>
     <h3>小見出し</h3>
     <p>中見出しの中の見出しに使います</p>
-</body>
 ```
 
 ※補足
@@ -125,7 +123,6 @@ HTMLはタグというものを使って作っていきます。
         <li>ごはん</li>
         <li>味噌汁</li>
     </ul>
-</body>
 ```
 
 ※補足
@@ -141,9 +138,8 @@ HTMLはタグというものを使って作っていきます。
 ## 試しに作ってみよう③
 ②の続きから書こう！
 ```html
-    <p><a href=“https://www.google.co.jp/”>Google</a></p>
-    <p><a href=“http://www.yahoo.co.jp/” target=“_blank”>Yahoo</a></p>
-</body>
+<p><a href=“https://www.google.co.jp/”>Google</a></p>
+<p><a href=“http://www.yahoo.co.jp/” target=“_blank”>Yahoo</a></p>
 ```
 ※補足
 ```html
