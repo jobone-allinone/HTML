@@ -8,9 +8,13 @@
 
 ## 見出し
 h1~h6 (headline or heading) ブロック要素
+
 h1：1番大きな見出し、タイトルなどに使う ※使用頻度は1ページに1回程度
+
 h2：2番目に大きな見出し、大見出しなどに使う
+
 h3：3番目に大きな見出し、小見出しなどに使う ※必ずh2の中で使うこと
+
 ※h4以降はあまり使う機会は少ない
 
 ## 見出しコード例
@@ -125,27 +129,39 @@ dd (definition description)　ブロック要素
 
 ## リンク
 a (anchor) インライン要素
+
 href (hyper reference)
+
 `<a href=“index.html”>トップへ</a>`
+
            相対パス
+           
 `<a href=“index.html” target=“_blank”>トップへ</a>`
+
 別ウィンドウで開く
 
 ## 画像
 img (image) インライン要素
+
 `<img src=“img/sample.jpg” alt=“テスト画像”>`
+
 altは画像の説明文です。
+
 srcは画像ファイルのURLです。
-何らかのエラーで画像が表示されないときにaltのテキストが
-表示されます。必ず入れるようにしましょう。
+
+何らかのエラーで画像が表示されないときにaltのテキストが表示されます。必ず入れるようにしましょう。
 
 ## テーブル
 テーブル
+
 table (table) ブロック要素
+
 テーブル行
 tr (table row) ブロック要素
+
 テーブル見出し
 th (table header) ブロック要素
+
 テーブルデータ
 td (table data) ブロック要素
 
