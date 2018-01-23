@@ -40,7 +40,7 @@ pタグに近いものに`<br>`があります。
 ## 段落②
 `<br>`はスマホ画面が崩れやすい！
 PC画面
-![PC画面](image-tag-1.gif)
+![PC画面](https://user-images.githubusercontent.com/35711528/35255665-7581c972-0033-11e8-9fe1-49806af5edcb.gif)
 スマホ画面
 ![スマホ画面](image-tag-2.gif)
 
