@@ -42,7 +42,7 @@ pタグに近いものに`<br>`があります。
 PC画面
 ![PC画面](https://user-images.githubusercontent.com/35711528/35255665-7581c972-0033-11e8-9fe1-49806af5edcb.gif)
 スマホ画面
-![スマホ画面](image-tag-2.gif)
+![スマホ画面](https://user-images.githubusercontent.com/35711528/35255716-bf6264d4-0033-11e8-9dc0-30eb9069c890.gif)
 
 ## 段落③
 改行は`<p>`を使いましょう
