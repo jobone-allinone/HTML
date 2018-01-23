@@ -47,11 +47,13 @@ PC画面
 ![スマホ画面](https://user-images.githubusercontent.com/35711528/35255716-bf6264d4-0033-11e8-9dc0-30eb9069c890.gif)
 
 ## 段落③
-改行は`<p>`を使いましょう
+改行は`<p>`を使いましょう<br>
 PC画面
-![PC画面](image-tag-3.gif)
+![PC画面](https://user-images.githubusercontent.com/35711528/35255871-7ea9032a-0034-11e8-83d2-febf018c6a2f.gif)
+
+
 スマホ画面
-![スマホ画面](image-tag-4.gif)
+![スマホ画面](https://user-images.githubusercontent.com/35711528/35255909-a5bf5374-0034-11e8-84c0-d6bb261e82ff.gif)
 
 ## リスト
 順序がないリスト
