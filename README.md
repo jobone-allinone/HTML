@@ -134,7 +134,7 @@ href (hyper reference)
 
 `<a href=“index.html”>トップへ</a>`
 
-           相対パス
+　　　相対パス
            
 `<a href=“index.html” target=“_blank”>トップへ</a>`
 
