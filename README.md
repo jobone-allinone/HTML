@@ -40,7 +40,7 @@
             <li><a href=“#”>HOME</a></li>
             <li><a href=“#”>会社情報</a></li>
         </ul>
-        </nav>←
+    </nav>←
 </header>
 ```
 例：article
